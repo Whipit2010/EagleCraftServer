@@ -6,7 +6,7 @@ Original Project: Lax1Dude
 Original Server Fork: EcoliEater87
 <br>
 ## Setup Guide
-Welcome to the EaglercraftX server project! Here is how you can setup your very own eaglercraft server:
+Welcome to the EaglercraftX server project! Herecd server && sudo java -jar server.jar is how you can setup your very own eaglercraft server:
 <br>
 <br>
 First, go to the top of the repo and click on code > codespaces > create codespace
@@ -16,7 +16,9 @@ now you have your own free server instance to host eaglercraft. Next you need to
 <br>
 create 2 terminal tabs and paste in the following snipits:
 <br>
-<br>
+<br>'
+
+
 first tab: `cd server && sudo java -jar server.jar`
 <br>
 <br>
